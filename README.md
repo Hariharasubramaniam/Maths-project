@@ -5,4 +5,4 @@ This Project is all about recognition of hand gestures using Python programming.
 
 
 
-Referrence:-https://techvidvan.com/tutorials/hand-gesture-recognition-tensorflow-opencv/
+Reference:-https://techvidvan.com/tutorials/hand-gesture-recognition-tensorflow-opencv/
